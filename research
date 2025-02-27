@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research | My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Research</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teaching.html">Teaching</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="service.html">Service</a></li>
+                <li><a href="funding.html">Funding</a></li>
+                <li><a href="people.html">People</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>My Research Areas</h2>
+        <p>I'm focused on AI applications in agriculture, remote sensing, and IoT-based precision farming.</p>
+    </main>
+
+    <footer>
+        <p>© 2025 My Name</p>
+    </footer>
+</body>
+</html>
