@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funding | My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Funding</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teaching.html">Teaching</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="service.html">Service</a></li>
+                <li><a href="funding.html">Funding</a></li>
+                <li><a href="people.html">People</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>My Funding Sources</h2>
+        <p>Grants from NSF, USDA, and industry partners support my research projects.</p>
+    </main>
+
+    <footer>
+        <p>© 2025 My Name</p>
+    </footer>
+</body>
+</html>
