@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teaching | My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Teaching</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teaching.html">Teaching</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="service.html">Service</a></li>
+                <li><a href="funding.html">Funding</a></li>
+                <li><a href="people.html">People</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Courses I Teach</h2>
+        <ul>
+            <li>Course 1: Introduction to AI</li>
+            <li>Course 2: Machine Learning in Agriculture</li>
+            <li>Course 3: Internet of Things for Biosystems</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>© 2025 My Name</p>
+    </footer>
+</body>
+</html>
